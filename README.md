@@ -6,7 +6,7 @@ An SQL Authentication tool that tests for integrated SQL authentication and runs
 ```
 SQLAuth.exe list.txt
 ```
-list.txt should contain servers in below format
+`list.txt` should contain servers in below format
 
 127.0.0.1:1433
 
