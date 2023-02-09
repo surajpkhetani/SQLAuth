@@ -9,7 +9,11 @@ SQLAuth.exe list.txt
 list.txt should contain servers in below format
 
 127.0.0.1:1433
+
 1.1.1.1:1499
+
 .
+
 .
+
 .
